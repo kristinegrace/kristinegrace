@@ -1,0 +1,42 @@
+		h1 {color:teal;
+		text-align: center;
+		font-size: 100px;}
+	
+		p {color:navajowhite}
+		li {color: darkgreen;
+		font-size: 50px;}
+		img {display: block;
+			 margin-left: auto;
+			 margin-right: auto}
+		body {background-image:url ("s.jpg");
+			 background-size:100% 100%;
+			 background-attachment: fixed;
+			 background-repeat: no-repeat;}
+			
+		ul{ list-style-type: none;
+			font-size:35px;}
+			
+		ul li{ display: inline-block;
+			padding: 0px  10px;
+			border: 3px solid white;
+			margin: 5px;}
+		
+		img{ display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: auto;
+			height: 300px; }
+	    p {
+			text-align: center;
+			font-size:  40px;
+			color:light blue;
+	     	}
+		h4 { text-align: center;
+			font-family: 'garamond' , serif;
+			font-size:30px;
+			}
+			
+		.circular--square{
+			border-radius: 50%;
+			width:70px;
+			height:70px;}
